@@ -1,0 +1,41 @@
+.jumbotron{
+    background-color: darkred;
+    color: white;
+    height: 800px;
+    text-align: center;
+    padding: 200px;
+}
+
+#bigAlStadium{
+    position: relative;
+    max-height: 300px;
+}
+
+.card{
+    border-radius: 5px;
+    max-height: 425px;
+    max-width: 425px;
+    padding: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
+
+#addSong{
+    padding: 1px;
+    text-align: center;
+}
+#deleteSong{
+    padding: 10px;
+    text-align: center;
+}
+#favoriteSong{
+    padding: 10px;
+    text-align: center;
+}
+#getSong{
+    padding: 10px;
+    text-align: center;
+}
